@@ -27,7 +27,9 @@ O projeto também inclui tratamento de exceções, que pode ser estendido com te
 
 * O modelo conceitual foi desenvolvido utilizando diagramas UML, facilitando a visualização e o entendimento da estrutura do sistema. Devido à natureza do MongoDB, o modelo é mais focado em coleções e documentos JSON.
 
-* ![Domain Model]((https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices/blob/master/Captura%20de%20tela%202025-04-02%20184357.png)
+* ![Domain Model](https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices/blob/master/Captura%20de%20tela%202025-04-02%20184357.png)
+* ![Domain Instance](https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices/blob/master/Captura%20de%20tela%202025-04-02%20184541.png)
+
 
   
 
