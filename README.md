@@ -1,14 +1,10 @@
-Claro, aqui está o README para o seu projeto Sts-NoSQLmongodb-webservices, pronto para ser usado no GitHub:
-
-Markdown
-
 # Sts-NoSQLmongodb-webservices
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Diego-Cruz-github/webservice-spboot3-jpa/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-Este é um projeto de backend Spring Tool Suite (STS) Java que implementa uma API RESTful utilizando o MongoDB como banco de dados NoSQL. O projeto demonstra a capacidade de construir serviços web escaláveis utilizando Spring Web Services, aliados a flexibilidade do MongoDB para armazenar e recuperar dados.
+Este é um projeto de backend Spring Tool Suite (STS) Java que implementa uma API RESTful, simulando uma rede social com posts e comentários, utilizando o MongoDB como banco de dados NoSQL. O projeto demonstra a capacidade de construir serviços web escaláveis utilizando Spring Web Services, aliados a flexibilidade do MongoDB para armazenar e recuperar dados.
 
 A arquitetura do projeto é estruturada em camadas lógicas (resources, services, repositories), seguindo as melhores práticas de desenvolvimento para garantir a manutenibilidade e escalabilidade da aplicação.
 
@@ -20,15 +16,20 @@ O projeto também inclui tratamento de exceções, que pode ser estendido com te
 
 ## Funcionalidades Principais
 
+* **CRUD Completo:** A API oferece operações completas de Create, Read, Update e Delete (CRUD) para as entidades do domínio.
 * **Controladores REST:** A API RESTful expõe endpoints bem definidos para interagir com as entidades do domínio.
 * **Persistência de Dados:** O projeto utiliza o Spring Data MongoDB para mapear as entidades Java para coleções no MongoDB, permitindo a persistência e recuperação de dados de forma eficiente.
-* **CRUD Completo:** A API oferece operações completas de Create, Read, Update e Delete (CRUD) para as entidades do domínio.
+
 * **Tratamento de Exceções:** O projeto implementa um tratamento de exceções robusto, garantindo que os erros sejam tratados de forma adequada e que as respostas da API sejam informativas.
 * **Flexibilidade do MongoDB:** Utiliza a flexibilidade do MongoDB para armazenar dados em formato JSON, permitindo a criação de esquemas dinâmicos e a adaptação a diferentes necessidades de dados.
 
 ## Modelo conceitual
 
-* Devido à natureza do MongoDB, o modelo conceitual é mais focado em coleções e documentos JSON.
+* O modelo conceitual foi desenvolvido utilizando diagramas UML, facilitando a visualização e o entendimento da estrutura do sistema. Devido à natureza do MongoDB, o modelo é mais focado em coleções e documentos JSON.
+
+* ![Domain Model]((https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices/blob/master/Captura%20de%20tela%202025-04-02%20184357.png)
+
+  
 
 # Tecnologias utilizadas
 
@@ -76,9 +77,6 @@ O projeto também inclui tratamento de exceções, que pode ser estendido com te
 
 * **Arquivo \`application.properties\` ou \`application.yml\`:**
     * Verifique o arquivo de configuração para quaisquer propriedades adicionais que precisem ser configuradas, como variáveis de ambiente ou configurações de segurança.
-
-* **Coleção do Postman:**
-    * Se você tiver uma coleção do Postman pronta para uso, considere adicionar um link para ela no README para facilitar a vida de quem for testar a API.
 
 ## Endpoints da API
 
