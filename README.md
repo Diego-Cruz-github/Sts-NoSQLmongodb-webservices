@@ -4,7 +4,7 @@ Markdown
 
 # Sts-NoSQLmongodb-webservices
 
-[![NPM](about:sanitized)]([https://www.google.com/search?q=https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices/blob/main/LICENSE](https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices/blob/master/LICENSE))
+[![NPM](https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices/blob/master/LICENSE)
 
 # Sobre o projeto
 
