@@ -4,7 +4,7 @@ Markdown
 
 # Sts-NoSQLmongodb-webservices
 
-[![NPM](https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Diego-Cruz-github/webservice-spboot3-jpa/blob/main/LICENSE) 
 
 # Sobre o projeto
 
