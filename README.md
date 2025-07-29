@@ -101,5 +101,4 @@ O projeto também inclui tratamento de exceções, que pode ser estendido com te
     * Exemplo de resposta: \`{"\_id": "...", "name": "Item 1", "description": "Descrição do item 1"}\`
 
 ## 👨‍💻 Autor
-**Diego Fonte Boa Cruz**  
-📌 [LinkedIn](https://www.linkedin.com/in/diegof90)
+**Diego Fonte**
